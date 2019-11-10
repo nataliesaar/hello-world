@@ -43,3 +43,29 @@ p {
   background-color: #4CAF50;
   color: white;
 }
+
+/* For overalStats */
+table {
+  border: double;
+  background-color:#f2f2f2;
+}
+
+.winNum{
+  background-color: #00ff99;
+}
+
+.lossNum {
+  background-color: #ff8080;
+}
+
+.bones {
+  border: solid;
+}
+
+tr {
+  border: soild;
+}
+
+.header {
+  align: center;
+}
